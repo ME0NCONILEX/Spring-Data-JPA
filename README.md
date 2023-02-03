@@ -2,4 +2,4 @@
 
 RecipeDatabase with the help of:
 Spring Boot, JPA/Hibernate, MySQL and H2.
-![](C:\Users\cpwer\Desktop\mySbDataJpa.png "mySbDataJpa")![mySbDataJpa](https://user-images.githubusercontent.com/115096856/216461995-4d34d405-7728-41c4-8c0b-44159c186aec.png)
+![mySbDataJpa](https://user-images.githubusercontent.com/115096856/216634814-b1188f4c-9148-4555-96b8-85e285edf19e.png)
